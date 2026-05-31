@@ -13,9 +13,10 @@
 
 Huement is a specialized engineering practice focused on delivering clean, automated digital products and reliable infrastructure.
 
-- Mobile Development: Crafting intuitive, natural-feeling applications that prioritize user experience.
-- Backend Architecture: Designing secure, scalable APIs and systems built to last.
-- DevOps Practices: Automating deployment pipelines to eliminate repetitive overhead and maximize efficiency.
+- FullStack Websites: Building web applications that are stunning by design, performant under pressure, and inherently accessible to everyone.
+- Mobile Development: Crafting intuitive, natural-feeling applications that prioritize user experience and take advantage of the formfactor. Not fight it.
+- Backend Architecture: Designing secure, scalable APIs and systems built to last. Using Graph & SQL standards to read, write, search, and index data.
+- DevOps Practices: Automating deployment pipelines to eliminate repetitive overhead and maximize efficiency. Leveraging AI to document and test on deployment.
 
 Driven by a genuine curiosity for how things work—and how they can work better—Huement strikes the perfect balance between architectural simplicity and technical effectiveness.
 
