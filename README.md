@@ -8,7 +8,7 @@
 </div>
 
 <h2>
-  <img width="24" src="https://cdn-icons-png.flaticon.com/512/3001/3001758.png" alt="About Me">&nbsp;&nbsp;About Me
+  <img width="24" src="https://cdn-icons-png.flaticon.com/512/3001/3001758.png" alt="About">&nbsp;&nbsp;About
 </h2>
 
 Huement is a specialized engineering practice focused on delivering clean, automated digital products and reliable infrastructure.
