@@ -59,11 +59,11 @@ Driven by a genuine curiosity for how things work—and how they can work better
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://api.iconify.design/logos/django.svg" alt="Django" width="48" height="48" />
+      <img src="https://api.iconify.design/logos/django-icon.svg" alt="Django" width="48" height="48" />
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://api.iconify.design/logos/wordpress.svg" alt="WordPress" width="48" height="48" />
+      <img src="https://api.iconify.design/logos/wordpress-icon.svg" alt="WordPress" width="48" height="48" />
       <br>WordPress
     </td>
     <td align="center" width="96">
@@ -111,7 +111,7 @@ Driven by a genuine curiosity for how things work—and how they can work better
   <!-- Row 4: App Ecosystems & Hardware Integration -->
   <tr>
     <td align="center" width="96">
-      <img src="https://api.iconify.design/logos/capacitorjs.svg" alt="Apache Capacitor" width="48" height="48" />
+      <img src="https://api.iconify.design/logos/capacitorjs-icon.svg" alt="Apache Capacitor" width="48" height="48" />
       <br>Capacitor
     </td>
     <td align="center" width="96">
@@ -127,7 +127,7 @@ Driven by a genuine curiosity for how things work—and how they can work better
       <br>Processing
     </td>
     <td align="center" width="96">
-      <img src="https://api.iconify.design/logos/apple.svg" alt="iOS" width="48" height="48" style="filter: hue-rotate(140deg);" />
+      <img src="https://api.iconify.design/logos/apple.svg" alt="iOS" width="48" height="48" style="filter: invert(80%);" />
       <br>Apple
     </td>
     <td align="center" width="96">
@@ -159,7 +159,7 @@ Driven by a genuine curiosity for how things work—and how they can work better
       <br>PostCSS
     </td>
     <td align="center" width="96">
-      <img src="https://api.iconify.design/logos/stylelint.svg" alt="Stylelint" width="48" height="48" />
+      <img src="https://api.iconify.design/logos/stylelint.svg" alt="Stylelint" width="48" height="48" style="filter: invert(80%);" />
       <br>Stylelint
     </td>
   </tr>
@@ -171,7 +171,7 @@ Driven by a genuine curiosity for how things work—and how they can work better
       <br>Gemini
     </td>
     <td align="center" width="96">
-      <img src="https://api.iconify.design/logos/openai-icon.svg" alt="Open AI" width="48" height="48" />
+      <img src="https://api.iconify.design/logos/openai-icon.svg" alt="Open AI" width="48" height="48" style="filter: invert(80%);" />
       <br>OpenAi
     </td>
     <td align="center" width="96">
@@ -187,7 +187,7 @@ Driven by a genuine curiosity for how things work—and how they can work better
       <br>Claude
     </td>
     <td align="center" width="96">
-      <img src="https://api.iconify.design/logos/anthropic-icon.svg" alt="Anthropic" width="48" height="48" />
+      <img src="https://api.iconify.design/logos/anthropic-icon.svg" alt="Anthropic" width="48" height="48" style="filter: invert(80%);" />
       <br>Anthropic
     </td>
   </tr>
