@@ -18,7 +18,21 @@ Huement is a specialized engineering practice focused on delivering clean, autom
 - **Backend**: Designing secure, scalable APIs and systems with a focus on location and geospatial queries.
 - **DevOps**: Automating deployment pipelines to eliminate repetitive overhead and maximize efficiency.
 
-Driven by a genuine curiosity for how things work—and how they can work better—Huement strikes the perfect balance between architectural simplicity and technical effectiveness.
+Driven by a genuine curiosity for how things work—and how they can work better, Huement is all about finding the perfect balance between architectural simplicity and technical effectiveness.
+
+---
+
+## ⚡ SUPPORT_PROTOCOL // TRANSMISSION_FINANCE
+
+> **NOTICE:** Creating open-source software takes A LOT of behind-the-scenes hours. If anything in the codebase brings value to your network stack, consider initializing a coffee intake deployment.
+
+<a href='https://ko-fi.com/U1A7222617' target='_blank'>
+  <img height='38' style='border:0px;height:38px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
+
+`STATUS: ONLINE // COFFEE_INTAKE: READY`
+
+---
 
 <h2>
   <img width="24" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" alt="Skills">&nbsp;&nbsp;Technical Skills
