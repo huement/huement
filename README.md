@@ -24,13 +24,12 @@ Driven by a genuine curiosity for how things work—and how they can work better
 
 ## ⚡ SUPPORT_PROTOCOL // TRANSMISSION_FINANCE
 
-> **NOTICE:** Creating open-source software takes A LOT of behind-the-scenes hours. If anything in the codebase brings value to your network stack, consider initializing a coffee intake deployment.
-
-<a href='https://ko-fi.com/U1A7222617' target='_blank'>
-  <img height='38' style='border:0px;height:38px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
-
-`STATUS: ONLINE // COFFEE_INTAKE: READY`
+<p align="center">
+  <strong>Creating open-source software takes A LOT of behind-the-scenes hours. If anything in the codebase brings value to your network stack, consider initializing a coffee deployment.</strong><br><br>
+  <a href='https://ko-fi.com/U1A7222617' target='_blank'>
+    <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
+</p>
 
 ---
 
