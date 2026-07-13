@@ -382,16 +382,4 @@ Driven by a genuine curiosity for how things work—and how they can work better
 <br clear="right"/>
 <br>
 
----
 
-## 📄 Licenses & Sponsorship
-
-The majority of our software and utilities in the Huement ecosystem are distributed freely under the open-source **MIT License** and **GPLv2**. Actively maintaining, optimizing, and engineering is all done by the team at **[HUEMENT](https://huement.com/)**.
-
-<p align="center">
-  <strong>If our code has saved you time, rendering cycles, or a configuration headache, consider keeping the engine running!</strong>
-  <br><br>
-  <a href='https://ko-fi.com/U1A7222617' target='_blank'>
-    <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
-</p>
