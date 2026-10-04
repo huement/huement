@@ -313,7 +313,7 @@ Driven by a genuine curiosity for how things work—and how they can work better
 
 <div align="center">
   <a href="https://github.com/huement">
-    <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=huement&theme=flat&column=6&row=1&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="700" alt="huement's trophies"/>
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=huement&theme=flat&column=6&row=1&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="700" alt="huement's trophies"/>
   </a>
 </div>
 
